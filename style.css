@@ -1,0 +1,42 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    background-color: #f9f871;
+    gap: 10px;
+}
+h1{
+    display :flex ;
+    justify-content: center;
+}
+h2{
+    display: flex;
+    justify-content: center;
+    background-color: #b87c4c;
+}
+.hal1{
+    background-color: black;
+    color: white;
+    width: 700px;
+    height: 450px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    border-radius: 50px;
+}
+img{
+    float:right ;
+    height: 400px;
+    width: 450px;
+    gap: 25px;
+    border-radius: 50px;
+}
+
+article{
+padding: 10px;
+    gap: 100px;
+}
+
+header{
+    background-color: #e2b659;
+}
